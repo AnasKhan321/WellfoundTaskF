@@ -5,6 +5,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import {MoonLoader } from "react-spinners"
 import { JobData } from './interface'
 
+// Host url
 const BackendHost = import.meta.env.VITE_BACKEND_HOST;
 
 
